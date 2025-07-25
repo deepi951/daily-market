@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daily-market/static/css/main.3464b877.css",
+    "main.js": "/daily-market/static/js/main.bcca5da6.js",
+    "static/js/453.d47d7f84.chunk.js": "/daily-market/static/js/453.d47d7f84.chunk.js",
+    "index.html": "/daily-market/index.html",
+    "main.3464b877.css.map": "/daily-market/static/css/main.3464b877.css.map",
+    "main.bcca5da6.js.map": "/daily-market/static/js/main.bcca5da6.js.map",
+    "453.d47d7f84.chunk.js.map": "/daily-market/static/js/453.d47d7f84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3464b877.css",
+    "static/js/main.bcca5da6.js"
+  ]
+}
